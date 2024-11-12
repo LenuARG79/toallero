@@ -124,6 +124,10 @@
     color: #4B706E;
 }
 
+.contactenos-a {
+    text-decoration: none;
+}
+
 @media (max-width: 768px) {
     .img-1 {
         width: 100%; /* Mantiene el ancho completo */
